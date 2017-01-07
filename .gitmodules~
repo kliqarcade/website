@@ -1,4 +1,3 @@
-[submodule "kliqarcade"]
+[submodule "public"]
 	path = public
 	url = git@github.com:kliqarcade/kliqarcade.git
-
