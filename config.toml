@@ -3,8 +3,8 @@ title = "The Kliq Arcade"
 theme = "hugo-universal-theme-master"
 relativeURLs = true
 languageCode = "en-us"
-disqusShortname = ""
-googleAnalytics = ""
+disqusShortname = "kliqarcade"
+googleAnalytics = "UA-89995911-1"
 pygmentsStyle = "tango"
 
 # Define the number of posts per page
